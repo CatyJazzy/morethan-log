@@ -7,8 +7,8 @@ const CONFIG = {
     bio: "Code with Jazz, Solve with Purpose.",
     email: "ahrefhoo@naver.com",
     linkedin: "",
-    github: "https://github.com/CatyJazzy",
-    instagram: "https://www.instagram.com/jh_ct21",
+    github: "CatyJazzy",
+    instagram: "jh_ct21",
   },
   projects: [
     {
